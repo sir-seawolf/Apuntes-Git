@@ -1,7 +1,7 @@
 # Cheesheet comandos-git
  * git add agrega archivos al área de trabajo
 `` git add .``
-
+* git reset para evitar archivode la zona de stage.
 * git commit guardar los cambios en un repositorio
 `` git commit -m 'nombre mensaje'``
 * git log te muestra la lista de los commits
